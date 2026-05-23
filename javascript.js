@@ -1,10 +1,8 @@
-let n1= 25;
-let n2= 5;
-
+let n1 = 25;
+let n2 = 5;
 function soma(){
-    return n1 + n2;
-
+return n1 + n2;
 };
 
 document.write(soma());
-
+console.log(soma());
